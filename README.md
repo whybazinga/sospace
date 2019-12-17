@@ -1,1 +1,1 @@
-# sospace
+# SoSpace game project for BSU
